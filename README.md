@@ -15,3 +15,9 @@
   <a href = "https://wa.link/n3qcv2"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
   <a href = "https://vercel.com/yasmins-projects-001871aa"><img src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasminNarciso/YasminNarciso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasminNarciso/YasminNarciso/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YasminNarciso/YasminNarciso/output/github-contribution-grid-snake.svg">
+</picture>
